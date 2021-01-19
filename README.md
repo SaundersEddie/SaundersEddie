@@ -1,7 +1,7 @@
 ## Hi there, my name is Eddie. Welcome to my repository.
 
 ## My Current Project:
-I;m currently working on a music site and an open source CSS framework.
+I'm currently working on a weather site.
 
 ## My Online Portfolio (under construction)
 https://eddie-saunders.herokuapp.com/

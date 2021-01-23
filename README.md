@@ -17,16 +17,16 @@ https://eddie-saunders.herokuapp.com/
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/visual-studio-code.png?raw=true" />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/html.png?raw=true" />
+<img align="left" alt="CSS3" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/css.png?raw=true" />
+<img align="left" alt="Sass" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/sass.png?raw=true" />
+<img align="left" alt="JavaScript" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/javascript.png?raw=true" />
+<img align="left" alt="React" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/react.png?raw=true" />
+<img align="left" alt="Node.js" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/nodejs.png?raw=true" />
+<img align="left" alt="MySQL" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/mysql.png?raw=true" />
+<img align="left" alt="MongoDB" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/mongodb.png?raw=true" />
+<img align="left" alt="Git" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/git.png?raw=true" />
 <img align="left" alt="Selenium" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/selenium-logo.png?raw=true" />
 <br />
 <br />

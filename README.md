@@ -1,9 +1,14 @@
 ## Hi there, my name is Eddie. Welcome to my repository.
 
-## My Current Project:
-I'm currently working on a weather site.
+## My Current Project:  
+I have just started work on the following projects :-
+- A small MERN based transportation management system, without saying this is not intended for actual shipping use.
+    - Initially this will be for US based shipments only
+    - Future expansion may include items such as carrier management and warehousing etc..
+- A JavaScript testing framework utilizing Selenium
+    - This was purely thought up to perform end user testing for the transportation management system
 
-## My Online Portfolio (under construction)
+## My Online Portfolio
 https://eddie-saunders.herokuapp.com/
 
 ## My Current Stats:

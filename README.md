@@ -2,7 +2,7 @@
 
 ## My Current Project:  
 I have just started work on the following projects :-
-- A small MERN based transportation management system, without saying this is not intended for actual shipping use.
+- A small MERN based transportation management system, without stating the obvious, this is not intended for actual shipping use.
     - Initially this will be for US based shipments only
     - Future expansion may include items such as carrier management and warehousing etc..
 - A JavaScript testing framework utilizing Selenium

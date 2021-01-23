@@ -1,7 +1,7 @@
 ## Hi there, my name is Eddie. Welcome to my repository.
 
 ## My Current Project:  
-I have just started work on the following projects :-
+On January 22nd 2021 I started work on the following projects :-
 - A small MERN based transportation management system, without stating the obvious, this is not intended for actual shipping use.
     - Initially this will be for US based shipments only
     - Future expansion may include items such as carrier management and warehousing etc..

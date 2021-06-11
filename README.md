@@ -1,4 +1,4 @@
-## Hi there, my name is Eddie. Welcome to my repository.
+## Hi there, my name is Eddie. Welcome to my repository. For those following me here, I'm moving to a new non bootcamp related repository here: https://github.com/EXSaunders
 
 ## My Current Project:  
 On January 22nd 2021 I started work on the following projects :-

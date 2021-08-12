@@ -1,9 +1,6 @@
 ## Hi there, my name is Eddie. Welcome to my repository. For those following me here, I'm removing some old items, and performing a long overdue cleanup.
 
 ## My Current Project:  
-On January 22nd 2021 I started work on the following projects :-
-- A Python testing framework utilizing Selenium
-    - This started off as a JS version, then I decided to start recording a series on JS, C#, Java, and Python for Selenum V3, and will be updating to Selenium beta 4
     
 ## My Online Portfolio
 https://hopeful-carson-d4896e.netlify.app/

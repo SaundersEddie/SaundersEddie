@@ -1,6 +1,7 @@
 ## Hi there, my name is Eddie. Welcome to my repository. For those following me here, I'm removing some old items, and performing a long overdue cleanup.
 
 ## My Current Project:  
+Currently I am working on developing my JavaScript - WebDriverIO skill set
     
 ## My Online Portfolio
 https://hopeful-carson-d4896e.netlify.app/

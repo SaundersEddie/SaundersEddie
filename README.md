@@ -1,7 +1,7 @@
 ## Hi there, my name is Eddie. Welcome to my repository. For those following me here, I'm removing some old items, and performing a long overdue cleanup.
 
 ## My Current Project:  
-
+A small non-production transportation management system.
     
 ## My Online Portfolio
 

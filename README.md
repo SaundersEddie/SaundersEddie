@@ -1,7 +1,7 @@
 ## Hi there, my name is Eddie. Welcome to my repository. Well my long overdue cleanup has been completed. Since this repo was originally created during a Web Dev boot camp, and I no longer do web dev, I'm  converting this over to my automation and quality automation testing repo.
 
 ## My Current Project:  
-A small non-production transportation management system.
+A small PactumJS/JS/Cucumber API Testing suite.
     
 ## My Online Portfolio
 

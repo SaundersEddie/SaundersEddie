@@ -1,4 +1,4 @@
-## Hi there, my name is Eddie. Welcome to my repository. Projects I'm currently working on:  
+## Hi there, my name is Eddie. Welcome to my repository. Projects I'm currently working on
 - Single Screen Unity Game  
 - Single Screen Web Based Game  
 - Project Planning App for Crafters

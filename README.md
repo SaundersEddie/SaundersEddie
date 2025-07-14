@@ -4,7 +4,7 @@
 - Project Planning App for Crafters
 
 ## My Current Project:  
-A small PactumJS/JS/Cucumber API Testing suite.
+Working on small SPA games, and a a few automated frameworks.
     
 ## My Online Portfolio
 

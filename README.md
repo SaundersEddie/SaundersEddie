@@ -3,9 +3,6 @@
 - Total Rip OFf Platfoirm Game
 - Automated Testing of a Super Secret Project   
 
-## My Current Project:  
-Working on small SPA games, and a a few automated frameworks.
-
 ## My Current Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaundersEddie&show_icons=true&theme=radical)
 

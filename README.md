@@ -1,7 +1,7 @@
 ## Hi there, my name is Eddie. Welcome to my repository. Projects I'm currently working on
-- Single Screen Unity Game  
-- Single Screen Web Based Game  
-- Project Planning App for Crafters
+- Project Planner and Tracker
+- Total Rip OFf Platfoirm Game
+- Automated Testing of a Super Secret Project   
 
 ## My Current Project:  
 Working on small SPA games, and a a few automated frameworks.

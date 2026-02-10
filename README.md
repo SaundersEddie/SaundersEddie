@@ -1,7 +1,7 @@
 ## Hi there, my name is Eddie. Welcome to my repository. Projects I'm currently working on
-- Project Planner and Tracker
-- Total Rip OFf Platfoirm Game
-- Automated Testing of a Super Secret Project   
+- Almost real time DC MEtro Tracker - Trains only right now, Busses coming soon
+- Weather SPA - Nothing fancy just a here and there display of weather using openMeteo
+- Unity RPG
 
 ## My Current Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaundersEddie&show_icons=true&theme=radical)
@@ -21,7 +21,3 @@
 <img align="left" alt="Selenium" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/selenium-logo.png?raw=true" />
 <br />
 <br />
-
-[website]: https://eddie-saunders.herokuapp.com/
-[twitter]: https://twitter.com
-[linkedin]: https://linkedin.com/in/

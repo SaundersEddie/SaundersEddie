@@ -3,9 +3,6 @@
 - Weather SPA - Nothing fancy just a here and there display of weather using openMeteo
 - Unity RPG
 
-## My Current Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaundersEddie&show_icons=true&theme=radical)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/SaundersEddie/SaundersEddie/blob/master/visual-studio-code.png?raw=true" />

@@ -1,7 +1,9 @@
 ## Hi there, my name is Eddie. Welcome to my repository. Projects I'm currently working on
-- Almost real time DC Metro Tracker - Trains only right now, Busses coming soon
-- Weather SPA - Nothing fancy just a here and there display of weather using openMeteo
+- eddiesgames.xyz - A few JS games hosted for daily fun
 - Unity RPG
+- Done - Almost real time DC Metro Tracker - Subway
+- Done - Weather SPA - Nothing fancy just a here and there display of weather using openMeteo
+- Done - Latency Monitor - Multiple Sites
 
 ### Languages and Tools:
 
